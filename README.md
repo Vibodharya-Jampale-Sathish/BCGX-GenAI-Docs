@@ -45,5 +45,4 @@ The goal was to simulate the real-world application of Generative AI by:
 
 ---
 
-## 📂 Repository Structure
 
